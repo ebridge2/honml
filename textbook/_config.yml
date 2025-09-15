@@ -5,7 +5,7 @@
 # Book settings
 title: Network Machine Learning
 author: Eric Bridgeford, Alex Loftus, and Joshua Vogelstein
-copyright: "2024" # to be placed in the footer
+copyright: "2025" # to be placed in the footer
 logo: logo.png
 parse:
   myst_enable_extensions:
