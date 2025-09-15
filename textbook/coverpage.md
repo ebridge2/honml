@@ -16,4 +16,4 @@ The project is organized as follows. Each chapter/section in the book correspond
 
 Details for deploying a jupyter server to run the code in the notebooks on your local machine can be found at [the README.md for this project's repository](https://github.com/ebridge2/honml).
 
-This material has been / will be published by Cambridge University Press as Hands-On Network Machine Learning by Eric W. Bridgeford, Alex Loftus, and Joshua T. Vogelstein. This pre-publication version is free to view and download for personal use only. Not for re-distribution, re-sale or use in derivative works. © copyright Eric W. Bridgeford, Alex Loftus, and Joshua T. Vogelstein 2025.
+This material has been / will be published by Cambridge University Press as Hands-On Network Machine Learning by Eric W. Bridgeford, Alex Loftus, and Joshua T. Vogelstein. This pre-publication version is free to view and download for personal use only. Not for re-distribution, re-sale or use in derivative works.
